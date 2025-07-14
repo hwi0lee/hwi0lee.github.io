@@ -9,8 +9,12 @@ Specifically, I approach LLMs as objects of scientific study, aided by the emerg
 
 ## Research Interests
 
-- **Mechanistic Interpretability:** Circuit Discovery, Feature Explanation
-- **Model Editing:** Knowledge Editing, Knowledge Unlearning
+- **Mechanistic Interpretability:** 
+    - Circuit Discovery 
+    - Feature Explanation
+- **Model Editing:** 
+    - Knowledge Editing 
+    - Knowledge Unlearning
 
 ## News
 
