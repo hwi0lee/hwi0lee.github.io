@@ -4,8 +4,8 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m Hwiyeong Lee, a second-year M.S. student in Artificial Intelligence Semiconductor Engineering at Hanyang University, supervised by Prof. [Taeuk Kim](http://galsang.github.io) and affiliated with the [HYU NLP Lab](https://sites.google.com/view/hyu-nlp/home).
-Previously, I began my research career in my fourth undergraduate year under the supervision of Prof. [Sangheum Hwang](https://sites.google.com/ds.seoultech.ac.kr/daintlab/members/director?authuser=0) at Seoul National University of Science and Technology.
+Hi, I’m Hwiyeong Lee, a second-year M.S. student in Artificial Intelligence Semiconductor Engineering at Hanyang University, supervised by [Prof. Taeuk Kim](http://galsang.github.io) and affiliated with the [HYU NLP Lab](https://sites.google.com/view/hyu-nlp/home).
+Previously, I began my research career in my fourth undergraduate year under the supervision of [Prof. Sangheum Hwang](https://sites.google.com/ds.seoultech.ac.kr/daintlab/members/director?authuser=0) at Seoul National University of Science and Technology.
 
 ## Research Interests
 
