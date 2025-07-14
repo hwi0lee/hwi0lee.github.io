@@ -9,8 +9,7 @@ Previously, I began my research career in my fourth undergraduate year under the
 
 ## Research Interests
 
-I'm motivated to explore how LLMs acquire and process knowledge, and importantly, how we can manipulate it post hoc. 
-Specifically, I approach LLMs as objects of scientific study, aided by the emerging line of work in the field of **Mechanistic Interpretability** to peel back the curtain on their inner workings. Ultimately, I aim to solve practical challenges like **Knowledge Editing** and **Unlearning** through a clear understanding of how LLMs operate.
+I'm motivated to explore how LLMs acquire and process knowledge, and importantly, how we can manipulate it post hoc. Specifically, I approach LLMs as objects of scientific study, aided by the emerging line of work in the field of **Mechanistic Interpretability** to peel back the curtain on their inner workings. Ultimately, I aim to solve practical challenges like **Knowledge Editing** and **Unlearning** through a clear understanding of how LLMs operate.
 
 ## News
 
