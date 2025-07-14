@@ -4,14 +4,13 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m Hwiyeong Lee, a second-year M.S. student in Artificial Intelligence Semiconductor Engineering at Hanyang University. My research explores on how LLMs learn and process knowledge, and more importantly, how we can manipulate it post hoc. <br>
-Specifically, I approach LLMs as objects of scientific study, aided by the emerging line of work in the field of **Mechanistic Interpretability** to peel back the curtain on their inner workings. In the end, I aim to solve practical challenges like **Knowledge Editing** and **Unlearning** through a clear understanding of how LLMs operate.
+Hi, I’m Hwiyeong Lee, a second-year M.S. student in Artificial Intelligence Semiconductor Engineering at Hanyang University, supervised by Prof. [Taeuk Kim](http://galsang.github.io) and affiliated with the [HYU NLP Lab](https://sites.google.com/view/hyu-nlp/home).
+Previously, I began my research career in my fourth undergraduate year under the supervision of Prof. [Sangheum Hwang](https://sites.google.com/ds.seoultech.ac.kr/daintlab/members/director?authuser=0) at Seoul National University of Science and Technology.
 
 ## Research Interests
 
-- Mechanistic Interpretability 
-- Model Editing
-- Knowledge Unlearning
+My research explores on how LLMs learn and process knowledge, and more importantly, how we can manipulate it post hoc. 
+Specifically, I approach LLMs as objects of scientific study, aided by the emerging line of work in the field of **Mechanistic Interpretability** to peel back the curtain on their inner workings. In the end, I aim to solve practical challenges like **Knowledge Editing** and **Unlearning** through a clear understanding of how LLMs operate.
 
 ## News
 
