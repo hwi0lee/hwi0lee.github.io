@@ -9,8 +9,8 @@ Specifically, I approach LLMs as objects of scientific study, aided by the emerg
 
 ## Research Interests
 
-- **Natural L:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Mechanistic Interpretability:** Circuit Discovery, Feature Explanation
+- **LLM Manipulation:** Knowledge Editing, Knowledge Unlearning
 
 ## News
 
