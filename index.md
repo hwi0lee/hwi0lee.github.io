@@ -24,3 +24,7 @@ Specifically, I approach LLMs as objects of scientific study, aided by the emerg
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
+
+## Educations
+- Sep. 2024 - Present, M.S. Student in Artificial Intelligence Semiconductor Engineering, Hanyang University
+- Mar. 2018 - Aug. 2024, B.S Student in Industrial and Information Systems Engineering, Seoul National University of Science and Technology
