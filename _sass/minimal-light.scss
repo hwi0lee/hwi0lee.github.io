@@ -249,11 +249,11 @@ h2 {
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color:rgb(30, 127, 172);
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:rgb(30, 127, 172); //(62, 183, 240)
   }
 }
 
@@ -280,7 +280,7 @@ a:hover {
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:rgb(30, 127, 172);
   }
 }
 
@@ -343,11 +343,11 @@ th {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color:rgb(62, 183, 240);
+    color:rgb(30, 127, 172);
   }
 
   dt {
-    color:rgb(62, 183, 240);
+    color:rgb(30, 127, 172);
   }
 }
 
