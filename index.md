@@ -18,7 +18,7 @@ Specifically, I approach LLMs as objects of scientific study, aided by the emerg
 
 ## News
 
-- **More to Be Added Soon**
+- More to Be Added Soon
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
