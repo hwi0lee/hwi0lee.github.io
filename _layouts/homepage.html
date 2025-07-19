@@ -103,17 +103,14 @@
       {{ content }}
 
       <br>
-
-      {% if site.enable_footnote %}
-      <p><small>
-      Last updated: {{ site.time | date: "%Y-%m-%d" }}<br>
-      © {{ site.time | date: "%Y" }} Hwiyeong Lee. All rights reserved.
-      </small></p>
-      {% endif %}
-
       </section>
       <footer>
-        
+        {% if site.enable_footnote %}
+        <p><small>
+        Last updated: {{ site.time | date: "%Y-%m-%d" }}<br>
+        © {{ site.time | date: "%Y" }} Hwiyeong Lee. All rights reserved.
+        </small></p>
+        {% endif %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
