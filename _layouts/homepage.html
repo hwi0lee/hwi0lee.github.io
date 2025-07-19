@@ -105,7 +105,10 @@
       <br>
 
       {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
+      <p><small>
+      Last updated: {{ site.time | date: "%Y-%m-%d" }}<br>
+      © {{ site.time | date: "%Y" }} Hwiyeong Lee. All rights reserved.
+      </small></p>
       {% endif %}
 
       </section>
