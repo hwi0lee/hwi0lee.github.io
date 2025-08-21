@@ -13,7 +13,7 @@ I'm motivated to explore how LLMs acquire and process knowledge, and importantly
 
 ## News
 
-- Coming Soon
+- Excited to share that my first-author paper 'Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models' has been accepted to EMNLP 2025 Main Conference! See you in Suzhou!
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
