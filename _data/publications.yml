@@ -2,13 +2,13 @@ main:
 
   - title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models
     authors: <strong>Hwiyeong Lee</strong>, Uiji Hwang, Hyelim Lim, Taeuk Kim
-    conference_short: Preprint
-    conference: arXiv preprint, 2025.
+    conference_short: EMNLP
+    conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
     pdf: https://arxiv.org/abs/2505.16252
     # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://arxiv.org/bibtex/2505.16252
     image: ./assets/img/arxiv-doeslocalization.png
-    notes: Under Review
+    notes: Main Conference
 
   - title: "Uncovering Hidden Vulnerabilities in Machine Unlearning: Adversarial Attack as a Probe and Pruning as a Solution"
     authors: <strong>Hwiyeong Lee</strong>, Jeonghyun Kim, Sangheum Hwang
