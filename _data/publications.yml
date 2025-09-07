@@ -5,7 +5,7 @@ main:
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
     pdf: https://arxiv.org/abs/2505.16252
-    # code: https://github.com/MrGiovanni/ContinualLearning
+    code: https://github.com/HYU-NLP/loc-unlearn
     bibtex: https://arxiv.org/bibtex/2505.16252
     image: ./assets/img/arxiv-doeslocalization.png
     notes: Main Conference
