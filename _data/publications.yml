@@ -4,9 +4,9 @@ main:
     authors: <strong>Hwiyeong Lee</strong>, Uiji Hwang, Hyelim Lim, Taeuk Kim
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
-    pdf: https://arxiv.org/abs/2505.16252
+    pdf: https://aclanthology.org/2025.emnlp-main.1109.pdf
     code: https://github.com/HYU-NLP/loc-unlearn
-    bibtex: https://arxiv.org/bibtex/2505.16252
+    bibtex: https://aclanthology.org/2025.emnlp-main.1109.bib
     image: ./assets/img/arxiv-doeslocalization.png
     notes: Main Conference
 
