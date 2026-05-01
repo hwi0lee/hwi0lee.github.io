@@ -7,7 +7,7 @@ main:
     # pdf: https://aclanthology.org/2025.emnlp-main.1109.pdf
     # code: https://github.com/HYU-NLP/loc-unlearn
     # bibtex: https://aclanthology.org/2025.emnlp-main.1109.bib
-    image: ./assets/img/query_lens.pdf
+    image: ./assets/img/query_lens.jpg
     notes: Poster
 
   - title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models
