@@ -13,7 +13,7 @@ I'm motivated to explore how LLMs acquire and process knowledge, and importantly
 
 ## News
 
-- **[May 2026]** 🎉 **Paper Accepted to ICML 2026!**  
+- **[May. 2026]** 🎉 **Paper Accepted to ICML 2026!**  
   My first-author paper *"Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects"* has been accepted to **ICML 2026**. It feels especially meaningful to present this work in **Seoul**, the city where I was born and raised! 🇰🇷
 
 - **[Aug. 2025]** 🎉 **Paper Accepted to EMNLP 2025!**  
