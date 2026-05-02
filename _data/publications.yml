@@ -8,6 +8,7 @@ main:
     # code: https://github.com/HYU-NLP/loc-unlearn
     # bibtex: https://aclanthology.org/2025.emnlp-main.1109.bib
     image: ./assets/img/query_lens.png
+    # notes: Poster Presentation
 
   - title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models
     authors: <strong>Hwiyeong Lee</strong>, Uiji Hwang, Hyelim Lim, Taeuk Kim
@@ -17,7 +18,7 @@ main:
     code: https://github.com/HYU-NLP/loc-unlearn
     bibtex: https://aclanthology.org/2025.emnlp-main.1109.bib
     image: ./assets/img/arxiv-doeslocalization.png
-    notes: Main Conference
+    # notes: Poster Presentation
 
   - title: "Uncovering Hidden Vulnerabilities in Machine Unlearning: Adversarial Attack as a Probe and Pruning as a Solution"
     authors: <strong>Hwiyeong Lee</strong>, Jeonghyun Kim, Sangheum Hwang
@@ -27,5 +28,5 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Poster Presentation
+    # notes: Poster Presentation
     image: ./assets/img/kcc-uncovering.png
