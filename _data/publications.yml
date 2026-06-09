@@ -6,7 +6,7 @@ main:
     conference: International Conference on Machine Learning (ICML), 2026.
     pdf: https://arxiv.org/pdf/2606.07617
     code: https://github.com/HYU-NLP/query-lens
-    bibtex: ./assets/bib/query_lens.bib
+    bibtex: https://arxiv.org/bibtex/2606.07617
     image: ./assets/img/query_lens.png
     # notes: Poster Presentation
 
