@@ -4,9 +4,9 @@ main:
     authors: <strong>Hwiyeong Lee</strong>, Ingyu Bang, Uiji Hwang, Hyelim Lim, Taeuk Kim
     conference_short: ICML
     conference: International Conference on Machine Learning (ICML), 2026.
-    # pdf: https://aclanthology.org/2025.emnlp-main.1109.pdf
-    # code: https://github.com/HYU-NLP/loc-unlearn
-    # bibtex: https://aclanthology.org/2025.emnlp-main.1109.bib
+    pdf: https://arxiv.org/pdf/2606.07617
+    code: https://github.com/HYU-NLP/query-lens
+    bibtex: ./assets/bib/query_lens.bib
     image: ./assets/img/query_lens.png
     # notes: Poster Presentation
 
