@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m Hwiyeong Lee, an incoming Ph.D. student at the [Graduate School of Data Science](https://gsds.snu.ac.kr), Seoul National University, joining in September 2026. I will be advised by [Prof. Taesup Kim](https://scholar.google.com/citations?user=7V7yNeoAAAAJ&hl=en) as a member of [LAAL](https://www.snu-laal.com).
+Hi, I’m Hwiyeong Lee, an incoming Ph.D. student at the [Graduate School of Data Science](https://gsds.snu.ac.kr/), Seoul National University. Starting in September 2026, I will be advised by [Prof. Taesup Kim](https://scholar.google.com/citations?user=7V7yNeoAAAAJ&hl=en) as a member of [LAAL](https://www.snu-laal.com/).
  
-I am completing my M.S. at Hanyang University, where I was supervised by [Prof. Taeuk Kim](https://scholar.google.com/citations?user=eH5uq7wAAAAJ&hl). Before that, I began my research career in my fourth undergraduate year under the supervision of [Prof. Sangheum Hwang](https://scholar.google.com/citations?user=QtI8XmgAAAAJ&hl) at Seoul National University of Science and Technology.
+<!-- I am completing my M.S. at Hanyang University, where I was supervised by [Prof. Taeuk Kim](https://scholar.google.com/citations?user=eH5uq7wAAAAJ&hl). Before that, I began my research career in my fourth undergraduate year under the supervision of [Prof. Sangheum Hwang](https://scholar.google.com/citations?user=QtI8XmgAAAAJ&hl) at Seoul National University of Science and Technology.
 
-## Research Interests
+## Research Interests -->
 
 I'm motivated to explore how LLMs acquire and process knowledge, and importantly, how we can manipulate it post hoc. Specifically, I approach LLMs as objects of scientific study, aided by the emerging line of work in the field of **Mechanistic Interpretability** to peel back the curtain on their inner workings. Ultimately, I aim to solve practical challenges like **Knowledge Editing** and **Unlearning** through a clear understanding of how LLMs operate.
 
