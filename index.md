@@ -4,10 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m Hwiyeong Lee, a second-year M.S. student in Artificial Intelligence Semiconductor Engineering at Hanyang University, supervised by [Prof. Taeuk Kim](https://scholar.google.com/citations?user=eH5uq7wAAAAJ&hl).
-Previously, I began my research career in my fourth undergraduate year under the supervision of [Prof. Sangheum Hwang](https://scholar.google.com/citations?user=QtI8XmgAAAAJ&hl) at Seoul National University of Science and Technology.
-
-Starting in September 2026, I will begin my Ph.D. at the Graduate School of Data Science, Seoul National University, under the supervision of [Prof. Taesup Kim](https://scholar.google.com/citations?user=7V7yNeoAAAAJ&hl=en) at the [Learning and Adaptation Algorithms Lab (LAAL)](https://www.snu-laal.com).
+Hi, I’m Hwiyeong Lee, an incoming Ph.D. student at the [Graduate School of Data Science](https://gsds.snu.ac.kr), Seoul National University, joining in September 2026. I will be advised by [Prof. Taesup Kim](https://scholar.google.com/citations?user=7V7yNeoAAAAJ&hl=en) as a member of [LAAL](https://www.snu-laal.com).
+ 
+I am completing my M.S. at Hanyang University, where I was supervised by [Prof. Taeuk Kim](https://scholar.google.com/citations?user=eH5uq7wAAAAJ&hl). Before that, I began my research career in my fourth undergraduate year under the supervision of [Prof. Sangheum Hwang](https://scholar.google.com/citations?user=QtI8XmgAAAAJ&hl) at Seoul National University of Science and Technology.
 
 ## Research Interests
 
@@ -31,5 +30,6 @@ I'm motivated to explore how LLMs acquire and process knowledge, and importantly
 <!-- {% include_relative _includes/services.md %} -->
 
 ## Educations
-- **[Sep. 2024 - Present]** M.S. Student in Artificial Intelligence Semiconductor Engineering, Hanyang University
+- **[Sep. 2026 - Present]** Ph.D. Student in Data Science, Seoul National University
+- **[Sep. 2024 - Aug. 2026]** M.S. Student in Artificial Intelligence Semiconductor Engineering, Hanyang University
 - **[Mar. 2018 - Aug. 2024]** B.S. Student in Industrial and Information Systems Engineering, Seoul National University of Science and Technology
