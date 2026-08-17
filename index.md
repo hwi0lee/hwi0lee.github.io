@@ -14,6 +14,9 @@ I'm motivated to explore how LLMs acquire and process knowledge, and importantly
 
 ## News
 
+- **[Aug. 2026]** 🎓 **Completed My M.S. & Starting My Ph.D. at SNU!**  
+  After two amazing years at **Hanyang University**, I’m excited to have completed my M.S. and to begin a new chapter as a Ph.D. student at **Seoul National University** this September. I’m deeply grateful to everyone who supported me throughout my master’s journey, and I look forward to the challenges and opportunities ahead!
+
 - **[May. 2026]** 🎉 **Paper Accepted to ICML 2026!**  
   My first-author paper *"Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects"* has been accepted to **ICML 2026**. It feels especially meaningful to present this work in **Seoul**, the city where I was born and raised! 🇰🇷
 
