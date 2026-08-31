@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I’m Hwiyeong Lee, a Ph.D. student at [SNU GSDS](https://gsds.snu.ac.kr/), advised by [Prof. Taesup Kim](https://scholar.google.com/citations?user=7V7yNeoAAAAJ&hl=en) as a member of [LAAL](https://www.snu-laal.com/).
+Hi, I’m Hwiyeong Lee, a Ph.D. student at the [Graduate School of Data Science, Seoul National University](https://gsds.snu.ac.kr/), advised by [Prof. Taesup Kim](https://scholar.google.com/citations?user=7V7yNeoAAAAJ&hl=en) as a member of [LAAL](https://www.snu-laal.com/).
  
 <!-- I am completing my M.S. at Hanyang University, where I was supervised by [Prof. Taeuk Kim](https://scholar.google.com/citations?user=eH5uq7wAAAAJ&hl). Before that, I began my research career in my fourth undergraduate year under the supervision of [Prof. Sangheum Hwang](https://scholar.google.com/citations?user=QtI8XmgAAAAJ&hl) at Seoul National University of Science and Technology.
 
