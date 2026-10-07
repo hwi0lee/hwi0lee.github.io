@@ -1,7 +1,14 @@
 main:
+  - title: "How Learning Governs Unlearning across the Memorization–Generalization Spectrum"
+    authors: <strong>Hwiyeong Lee</strong><sup>*</sup>, Hyelim Lim<sup>*</sup>, Ingyu Bang, Hoki Kim<sup>†</sup>, Taeuk Kim<sup>†</sup>
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2610.08577
+    bibtex: https://arxiv.org/bibtex/2610.08577
+    image: ./assets/img/gen-mem.png
 
   - title: "Query Lens: Interpreting Sparse Key-Value Features with Indirect Effects"
-    authors: <strong>Hwiyeong Lee</strong>, Ingyu Bang, Uiji Hwang, Hyelim Lim, Taeuk Kim
+    authors: <strong>Hwiyeong Lee</strong>, Ingyu Bang, Uiji Hwang, Hyelim Lim, Taeuk Kim<sup>†</sup>
     conference_short: ICML
     conference: International Conference on Machine Learning (ICML), 2026.
     pdf: https://arxiv.org/pdf/2606.07617
@@ -11,7 +18,7 @@ main:
     # notes: Poster Presentation
 
   - title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models
-    authors: <strong>Hwiyeong Lee</strong>, Uiji Hwang, Hyelim Lim, Taeuk Kim
+    authors: <strong>Hwiyeong Lee</strong>, Uiji Hwang, Hyelim Lim, Taeuk Kim<sup>†</sup>
     conference_short: EMNLP
     conference: Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
     pdf: https://aclanthology.org/2025.emnlp-main.1109.pdf
@@ -21,7 +28,7 @@ main:
     # notes: Poster Presentation
 
   - title: "Uncovering Hidden Vulnerabilities in Machine Unlearning: Adversarial Attack as a Probe and Pruning as a Solution"
-    authors: <strong>Hwiyeong Lee</strong>, Jeonghyun Kim, Sangheum Hwang
+    authors: <strong>Hwiyeong Lee</strong>, Jeonghyeon Kim, Sangheum Hwang<sup>†</sup>
     conference_short: KCC
     conference:  Korea Computer Congress <strong>(KCC)</strong>, 2024.
     pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11862410
