@@ -1,9 +1,9 @@
 main:
   - title: "How Learning Governs Unlearning across the Memorization–Generalization Spectrum"
-    authors: <strong>Hwiyeong Lee</strong><sup>*</sup>, Hyelim Lim<sup>*</sup>, Ingyu Bang, Hoki Kim<sup>†</sup>, Taeuk Kim<sup>†</sup>
+    authors: <strong>Hwiyeong Lee</strong><sup>*</sup>, Hyelim Lim<sup>*</sup>, Ingyu Bang, Hoki Kim<sup>†</sup>, Taeuk&nbsp;Kim<sup>†</sup>
     conference_short: arXiv
     conference: arXiv preprint, 2026.
-    pdf: https://arxiv.org/abs/2610.08577
+    pdf: https://arxiv.org/pdf/2610.08577
     bibtex: https://arxiv.org/bibtex/2610.08577
     image: ./assets/img/gen-mem.png
 
