@@ -13,7 +13,7 @@ main:
     conference: International Conference on Machine Learning (ICML), 2026.
     pdf: https://proceedings.mlr.press/v306/lee26a.html
     code: https://github.com/HYU-NLP/query-lens
-    bibtex: ./assets/bibtex/pmlr-v306-lee26a.bib
+    bibtex: ./assets/bibtex/pmlr-v306-lee26a.html
     image: ./assets/img/query_lens.png
     # notes: Poster Presentation
 
