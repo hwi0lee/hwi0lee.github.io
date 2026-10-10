@@ -11,9 +11,9 @@ main:
     authors: <strong>Hwiyeong Lee</strong>, Ingyu Bang, Uiji Hwang, Hyelim Lim, Taeuk Kim<sup>†</sup>
     conference_short: ICML
     conference: International Conference on Machine Learning (ICML), 2026.
-    pdf: https://arxiv.org/pdf/2606.07617
+    pdf: https://proceedings.mlr.press/v306/lee26a.html
     code: https://github.com/HYU-NLP/query-lens
-    bibtex: https://arxiv.org/bibtex/2606.07617
+    bibtex: ./assets/bibtex/pmlr-v306-lee26a.bib
     image: ./assets/img/query_lens.png
     # notes: Poster Presentation
 
