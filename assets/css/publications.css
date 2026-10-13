@@ -48,7 +48,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
 
-.publications ol.bibliography li .abbr abbr.badge-new { background-color: #D4AF37; color: #2B2208 !important; }
+.publications ol.bibliography li .abbr abbr.badge-new { background-color: #E76F51; color: #FFFFFF !important; }
 
 .publications ol.bibliography li .abbr abbr a { color: white; }
 
