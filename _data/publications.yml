@@ -1,7 +1,8 @@
 main:
   - title: "How Learning Governs Unlearning across the Memorization–Generalization Spectrum"
     authors: <strong>Hwiyeong Lee</strong><sup>*</sup>, Hyelim Lim<sup>*</sup>, Ingyu Bang, Hoki Kim<sup>†</sup>, Taeuk Kim<sup>†</sup>
-    conference_short: arXiv
+    conference_short: New
+    badge_class: badge-new
     conference: arXiv preprint, 2026.
     pdf: https://arxiv.org/pdf/2610.08577
     bibtex: https://arxiv.org/bibtex/2610.08577
@@ -29,7 +30,6 @@ main:
 
   - title: "Uncovering Hidden Vulnerabilities in Machine Unlearning: Adversarial Attack as a Probe and Pruning as a Solution"
     authors: <strong>Hwiyeong Lee</strong>, Jeonghyeon Kim, Sangheum Hwang<sup>†</sup>
-    conference_short: KCC
     conference:  Korea Computer Congress <strong>(KCC)</strong>, 2024.
     pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11862410
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
